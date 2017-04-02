@@ -9,7 +9,7 @@ Angular 2 version of the New Age theme.
 
 `$ npm start`
 
-#Live demo
+# Live demo
 [Angular2-startbootstrap-new-age](https://infinite-plains-92000.herokuapp.com/)
 
 
